@@ -1,8 +1,3 @@
-import 'package:cloud_functions/cloud_functions.dart';
-import 'package:financy_app/features/forgot_password/forgot_password_controller.dart';
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:get_it/get_it.dart';
-
 import 'common/features/balance/balance.dart';
 import 'common/features/transaction/transaction.dart';
 import 'features/home/home_controller.dart';
